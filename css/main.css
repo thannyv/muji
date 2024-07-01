@@ -221,15 +221,15 @@ p.details {
 
 .card1 {
   grid-area: left;
-  background-image: url("/images/card-large.jpg");
+  background-image: url("../images/card-large.jpg");
 }
 
 .card2 {
-  background-image: url("/images/card-small-top.jpg");
+  background-image: url("../images/card-small-top.jpg");
 }
 
 .card3 {
-  background-image: url("/images/card-small-bottom.jpg");
+  background-image: url("../images/card-small-bottom.jpg");
 }
 
 .card4 {
