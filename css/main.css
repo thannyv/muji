@@ -234,19 +234,19 @@ p.details {
 
 .card4 {
   grid-area: left;
-  background-image: url("/images/shelter1.jpg");
+  background-image: url("../images/shelter1.jpg");
   height: 550px;
   background-repeat: no-repeat;
   
 }
 
 .card5 {
-  background-image: url("/images/shelter2.jpg");
+  background-image: url("../images/shelter2.jpg");
   background-repeat: no-repeat;
 }
 
 .card6 {
-  background-image: url("/images/shelter3.jpg");
+  background-image: url("../images/shelter3.jpg");
   background-repeat: no-repeat;
 }
 
